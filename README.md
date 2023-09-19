@@ -1,0 +1,2 @@
+# soloApp
+My first project
